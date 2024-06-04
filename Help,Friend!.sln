@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7652910A-F8CD-9DFA-F80C-87A7251E7907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkey_HealthSystem", "CodeMonkey_HealthSystem.csproj", "{D9A0506E-FB28-8741-64A1-84C6F45EDCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkey_HealthSystem_Editor", "CodeMonkey_HealthSystem_Editor.csproj", "{F53A3F4E-2246-5908-6C49-342CF40ABB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7652910A-F8CD-9DFA-F80C-87A7251E7907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7652910A-F8CD-9DFA-F80C-87A7251E7907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7652910A-F8CD-9DFA-F80C-87A7251E7907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7652910A-F8CD-9DFA-F80C-87A7251E7907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A0506E-FB28-8741-64A1-84C6F45EDCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A0506E-FB28-8741-64A1-84C6F45EDCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A0506E-FB28-8741-64A1-84C6F45EDCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A0506E-FB28-8741-64A1-84C6F45EDCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53A3F4E-2246-5908-6C49-342CF40ABB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53A3F4E-2246-5908-6C49-342CF40ABB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53A3F4E-2246-5908-6C49-342CF40ABB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53A3F4E-2246-5908-6C49-342CF40ABB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
